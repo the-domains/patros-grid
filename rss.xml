@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Patros Grid]]></title>
         <description><![CDATA[Patros Grid]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/patros-grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 11:25:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 26 Feb 2016 13:08:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/patros-grid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f742c2a0-84b1-43d7-b187-c49f33244722.jpg">]]></description>
-            <link>undefined3436ba30-2438-4ce3-9e9b-6924cd016328/index.html</link>
+            <link>https://thegrid.ai/patros-grid/3436ba30-2438-4ce3-9e9b-6924cd016328/index.html</link>
             <guid isPermaLink="false">3436ba30-2438-4ce3-9e9b-6924cd016328</guid>
-            <pubDate>Fri, 26 Feb 2016 11:25:47 GMT</pubDate>
+            <pubDate>Fri, 26 Feb 2016 13:08:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
