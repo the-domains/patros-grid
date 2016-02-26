@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-26T17:49:51.702Z'
-dateModified: '2016-02-26T17:49:38.664Z'
+datePublished: '2016-02-26T17:55:55.468Z'
+dateModified: '2016-02-26T17:55:50.366Z'
 title: 'Based on our decades of experience, we provide the following services'
 author: []
 sourcePath: _posts/2016-02-26-based-on-our-decades-of-experience-we-provide-the-following.md
@@ -39,5 +39,6 @@ _type: Article
 * Matlab/Simulink SimScape model and application development
 * LabVIEW programing and GUI development
 * TestStand programing and Operator Interface development
-* VeriStand programing, Custom Device and UI development
-.Net C\#, HTML5, SQL, Azure development
+* VeriStand programing
+* Custom Device and UI development
+* .Net C\#, HTML5, SQL, Azure development
